@@ -190,8 +190,8 @@ Output result as Placed or Not Placed.
 ```
 /*
 Program to implement the the Logistic Regression Using Gradient Descent.
-Developed by:ROHITH V 
-RegisterNumber:212224220083  
+Developed by: SRIDHARAN J
+RegisterNumber: 212222040158
 */
 ```
 ```
